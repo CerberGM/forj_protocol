@@ -2,7 +2,7 @@
  === ForJ v0.1 ===
  JSON over TCP/IP protocol
  Author: Nikulin Aleksey (c) 2016
- e-mail: nikulin.alex.v@gmail.com
+ e-mail: cerber.admin@gmail.com
 
  config
  host - Хост сервера
