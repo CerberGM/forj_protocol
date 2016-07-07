@@ -1,4 +1,6 @@
-# Welcome to the ForJ protocol wiki!
+# ForJ protocol
+
+This is JSON over tcp/ip protocol client/server for Node.js
 
 # Example
 
