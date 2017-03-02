@@ -43,7 +43,7 @@ This is JSON over tcp/ip protocol client/server for Node.js
             server.on("ping", function(socket, callback) {
                 func.log("Called ping");
                 server.call(socket, "pong", function(err, result) {
-                    func.log("We go pong!");
+                    console.log("We go pong!");
                 });
                 callback(null, true);
             });
